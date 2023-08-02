@@ -31,7 +31,7 @@ Trainers can mark vacation days and temporarily stop taking bookings for specifi
 
 ## How to Contribute
 
-###If you are a collaborator:
+### If you are a collaborator:
 
 To contribute to the Yoga Trainer Platform, please follow these steps:
 
