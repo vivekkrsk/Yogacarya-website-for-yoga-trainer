@@ -31,6 +31,7 @@ Trainers can mark vacation days and temporarily stop taking bookings for specifi
 
 ## How to Contribute
 
+
 We welcome contributions to the Yoga Trainer Platform! To contribute, please follow these steps:
 
 1. Fork the repository by clicking on the "Fork" button on the top right corner of this repository page.
@@ -57,6 +58,7 @@ We welcome contributions to the Yoga Trainer Platform! To contribute, please fol
    git push origin my-feature-branch
    ```
 
+### If you are not a collaborator
 7. Create a pull request (PR) by navigating to the original repository and clicking on the "New Pull Request" button. Fill in the details about your changes and submit the PR for review.
 
 8. Your PR will be reviewed, and any feedback or changes needed will be communicated through the PR conversation.
