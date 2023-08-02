@@ -54,7 +54,7 @@ To contribute to the Yoga Trainer Platform, please follow these steps:
     ```
 
 
-###If you are not a collaborator:
+### If you are not a collaborator:
 
 We welcome contributions to the Yoga Trainer Platform! To contribute, please follow these steps:
 
