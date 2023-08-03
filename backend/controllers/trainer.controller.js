@@ -34,8 +34,8 @@ const trainerController = {
     ,
     updateApproveStatus: async (req, res) => {
         try{
-            const id = req.params.id;
-            const trainer = testdata.find(trainer => trainer.id == id);
+            const id = req.params.trainerID;
+            const trainer = testdata.find(trainer => trainer.trainerID == id);
             trainer.approved = req.body.approved;
             res.status(200).json(trainer);
         }
