@@ -36,7 +36,7 @@ const trainerController = {
         try{
             const id = req.params.trainerID;
             const trainer = testdata.find(trainer => trainer.trainerID == id);
-            trainer.approved = req.body.approved;
+            trainer.status = req.body.status;
             res.status(200).json(trainer);
         }
         catch(error){
