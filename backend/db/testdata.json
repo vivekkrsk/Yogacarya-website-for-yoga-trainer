@@ -1,0 +1,63 @@
+[
+    {
+      "trainerID": 1,
+      "name": "John Doe",
+      "address": "123 Main St.",
+      "location": "City A",
+      "language": "English",
+      "certificates": ["Certificate A", "Certificate B"],
+      "services": ["Service A", "Service B"],
+      "price": 50.0,
+      "timeSlots": ["Monday 10AM", "Wednesday 2PM"],
+      "status": "active"
+    },
+    {
+      "trainerID": 2,
+      "name": "Jane Smith",
+      "address": "456 Elm St.",
+      "location": "City B",
+      "language": "Spanish",
+      "certificates": ["Certificate C", "Certificate D"],
+      "services": ["Service C", "Service D"],
+      "price": 60.0,
+      "timeSlots": ["Tuesday 3PM", "Thursday 1PM"],
+      "status": "inactive"
+    },
+    {
+      "trainerID": 3,
+      "name": "Michael Johnson",
+      "address": "789 Oak Ave.",
+      "location": "City C",
+      "language": "French",
+      "certificates": ["Certificate E"],
+      "services": ["Service E", "Service F"],
+      "price": 45.0,
+      "timeSlots": ["Monday 2PM", "Thursday 10AM"],
+      "status": "active"
+    },
+    {
+      "trainerID": 4,
+      "name": "Alice Brown",
+      "address": "101 Pine St.",
+      "location": "City D",
+      "language": "German",
+      "certificates": ["Certificate G", "Certificate H"],
+      "services": ["Service G", "Service H"],
+      "price": 55.0,
+      "timeSlots": ["Wednesday 11AM", "Friday 3PM"],
+      "status": "active"
+    },
+    {
+      "trainerID": 5,
+      "name": "Robert Lee",
+      "address": "222 Maple Rd.",
+      "location": "City E",
+      "language": "Chinese",
+      "certificates": ["Certificate I"],
+      "services": ["Service I", "Service J"],
+      "price": 65.0,
+      "timeSlots": ["Monday 5PM", "Thursday 9AM"],
+      "status": "inactive"
+    }
+  ]
+  
