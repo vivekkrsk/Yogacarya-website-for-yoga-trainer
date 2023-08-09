@@ -45,7 +45,6 @@ const updateApproveStatus = async (req, res) => {
 }
 
 
-
 module.exports = {
     getAllTrainers,
     getTrainer,
