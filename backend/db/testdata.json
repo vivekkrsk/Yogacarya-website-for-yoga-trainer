@@ -58,6 +58,18 @@
       "price": 65.0,
       "timeSlots": ["Monday 5PM", "Thursday 9AM"],
       "status": "inactive"
+    },
+    {
+      "trainerID": 6,
+      "name": "Robert Vj",
+      "address": "222 Maple Rd.",
+      "location": "City E",
+      "language": "Chinese",
+      "certificates": ["Certificate I"],
+      "services": ["Service I", "Service J"],
+      "price": 65.0,
+      "timeSlots": ["Monday 5PM", "Thursday 9AM"],
+      "status": "inactive"
     }
   ]
   

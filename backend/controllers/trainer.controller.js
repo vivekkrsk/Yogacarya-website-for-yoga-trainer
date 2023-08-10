@@ -36,11 +36,14 @@ const updateApproveStatus = async (req, res) => {
     try{
         const id = req.params.trainerID;
         const trainer = testdata.find(trainer => trainer.trainerID == id);
+        debugger; 
         trainer.status = req.body.status;
         res.status(200).json(trainer);
     }
     catch(error){
-        res.status(404).json({ "message": "error updating approve status" });
+        res.status(404).json({ "message": "error updating approve status" ,
+        "error": `${error}`
+    });
     }
 }
 

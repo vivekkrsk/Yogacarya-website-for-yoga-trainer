@@ -13,7 +13,7 @@ router.get('/trainers/:trainerID', trainerController.getTrainer);
 router.get('/trainers/:trainerID/status', trainerController.getStatusOfTrainer);
 
 // Update approve status of trainer
-// router.put('/trainers/:trainerID/approve', trainerController.updateApproveStatus);
+router.put('/trainers/:trainerID/approve', trainerController.updateApproveStatus);
 
 
 module.exports = router;
